@@ -7,6 +7,8 @@ CitiBike is a successful bike sharing business in NYC. Their success has given r
 ## Results: 
 Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
+[link to dashboard](https://public.tableau.com/app/profile/alexi7442/viz/NYCCitiBikeAnalysis_16660629907300/ChallengeStory?publish=yes "link to dashboard")
+
 ![Screen Shot 2022-10-17 at 9 04 34 PM](https://user-images.githubusercontent.com/106785377/196326491-c5c78ff2-b183-4b8f-85a8-0cd1c75d7a6d.png)
 
 ![Screen Shot 2022-10-17 at 9 04 43 PM](https://user-images.githubusercontent.com/106785377/196326500-7a0d9d3d-15b8-49f0-ae3e-7df765299e24.png)
