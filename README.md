@@ -37,4 +37,9 @@ About 25% of customers are female, and over 50% are male.
 Peak checkout times in August are 8am and 5pm. The lowest checkout time is between 2 and 3am.
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+The majority of customers are male subscribers. Peak bike checkout times are before and after typical working working hours (ie 8am and between 5 and 6pm). Thursdays at 5pm have very high checkout numbers. Low checkout times are between 2 and 3am.
+
+Two additional visualizations that would be useful include:
+1. Length of ride based on weekday and time of day.
+2. Length of ride based on usertype.
